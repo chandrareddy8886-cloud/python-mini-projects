@@ -8,6 +8,9 @@ Projects built while learning Python and OOP.
 2. Contact Book
 3. To-Do App
 4. Guessing Game
+5. Calculator
+
+## Concepts Used
 
 ## Concepts Used
 
@@ -18,3 +21,5 @@ Projects built while learning Python and OOP.
 - Loops
 - Conditions
 - Lists
+- Git
+- GitHub
