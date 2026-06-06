@@ -12,8 +12,6 @@ Projects built while learning Python and OOP.
 
 ## Concepts Used
 
-## Concepts Used
-
 - Classes & Objects
 - Constructors
 - Inheritance
